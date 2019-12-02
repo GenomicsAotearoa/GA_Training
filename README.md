@@ -20,6 +20,9 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 **Genotyping by Sequencing:**(https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
+**RNA-seq workshop:**(https://github.com/gregomics/RNAseqWorkshop2018/)
+
+
 
 
 
