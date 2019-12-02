@@ -5,10 +5,10 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 ## Upcoming Training:
 
-[**Metagenomics Summer School**] (https://github.com/GenomicsAotearoa/metagenomics_summer_school) 10th - 13th December 2019 at the University of Auckland
+**Metagenomics Summer School:**(https://github.com/GenomicsAotearoa/metagenomics_summer_school) 10th - 13th December 2019 at the University of Auckland
 
 ## Past Workshops:
-[Genomics Data Carpentry Workshop] (kttps://https://datacarpentry.org/genomics-workshop/)
+**Genomics Data Carpentry Workshop:**(https://https://datacarpentry.org/genomics-workshop/)
 
 - Victori University of Wellington
 - University of Otago
@@ -18,7 +18,8 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 - Auckland University
 - University of Otago
 
-[Genotyping by Sequencing]
+**Genotyping by Sequencing:**
+
 
 
 
