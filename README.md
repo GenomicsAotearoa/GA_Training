@@ -25,7 +25,7 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 
 
-[#### Contact us at] https://www.genomics-aotearoa.org.nz/contact-us
+Contact us at https://www.genomics-aotearoa.org.nz/contact-us
 
 
 
