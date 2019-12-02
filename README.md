@@ -22,7 +22,7 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 **RNA-seq workshop:**(https://github.com/gregomics/RNAseqWorkshop2018/)
 
-
+Contact us at https://www.genomics-aotearoa.org.nz/contact-us
 
 
 
