@@ -3,7 +3,7 @@ This is the GitHub pages site for Genomics Aotearoa Training, a collaborative re
 
 If you are interested in learning more about Genomics Aotearoa Training, please visit our Education and Events section on our official website at:
 
-[https://www.genomics-aotearoa.org.nz/education-eventseducation-events(https://www.genomics-aotearoa.org.nz/)
+[https://www.genomics-aotearoa.org.nz/education-eventseducation-events](https://www.genomics-aotearoa.org.nz/)
 
 ## Upcoming Training:
 
