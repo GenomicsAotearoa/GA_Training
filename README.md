@@ -3,12 +3,12 @@ This is the GitHub pages site for Genomics Aotearoa Training, a collaborative re
 
 If you are interested in learning more about Genomics Aotearoa Training, please visit our Education and Events section on our official website at: [https://www.genomics-aotearoa.org.nz/education-events](https://www.genomics-aotearoa.org.nz/education-events)
 
-## Upcoming Training:
+## Upcoming Training Events:
 
 **Metagenomics Summer School:**(https://github.com/GenomicsAotearoa/metagenomics_summer_school) 10th - 13th December 2019 at the University of Auckland
 
-## Past Workshops:
-**Genomics Data Carpentry Workshop:**(https://datacarpentry.org/genomics-workshop/)
+## Past Training Events:
+**Genomics Data Carpentry Workshops:**(https://datacarpentry.org/genomics-workshop/)
 
 - Victoria University of Wellington
 - University of Otago
