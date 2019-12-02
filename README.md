@@ -18,7 +18,7 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 - Auckland University
 - University of Otago
 
-**Genotyping by Sequencing:**
+**Genotyping by Sequencing:**(https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
 
 
