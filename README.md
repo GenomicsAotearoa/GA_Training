@@ -5,7 +5,7 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 ## Upcoming Training Events:
 
-
+**Genomics Data Carpentry:**(https://genomicsaotearoa.github.io/2020-01-28-auckland/) 28th - 29th of January 2020 at the University of Auckland
 
 ## Past Training Events:
 
