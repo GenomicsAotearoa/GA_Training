@@ -5,6 +5,8 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 ## Upcoming Training Events:
 
+**More information coming soon!!!
+
  
 ## Past Training Events:
 
