@@ -5,10 +5,14 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 ## Upcoming Training Events:
 
-**More information coming soon!!!**
+**Due to Covid-19, all our training will be held online**
+
+**Online Genomics Data Carpentry**(https://genomicsaotearoa.github.io/2020-04-15-online/) 15th - 16th of April
 
  
 ## Past Training Events:
+
+**Online Genomics Data Carpentry**(https://genomicsaotearoa.github.io/2020-03-31-online/) 31st March - 1st of April
 
 **Genomics Data Carpentry:**(https://genomicsaotearoa.github.io/2020-03-04-waikato/) 4th - 5th of March at LIC, Hamilton.
 
