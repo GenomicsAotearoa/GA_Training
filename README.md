@@ -7,16 +7,22 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 **Due to Covid-19, all our training will be held online**
 
-**Online Genomics Data Carpentry**(https://genomicsaotearoa.github.io/2020-04-15-online/) 15th - 16th of April
+- Updates coming soon!!!
 
  
 ## Past Training Events:
 
-**Online Genomics Data Carpentry**(https://genomicsaotearoa.github.io/2020-03-31-online/) 31st March - 1st of April
+**2020 Genomics Data Carpentry Workshops:**(https://datacarpentry.org/genomics-workshop/)
 
-**Genomics Data Carpentry:**(https://genomicsaotearoa.github.io/2020-03-04-waikato/) 4th - 5th of March at LIC, Hamilton.
+- Online. 15th - 16th of April
 
-**Genomics Data Carpentry:**(https://genomicsaotearoa.github.io/2020-01-28-auckland/) 28th - 29th of January 2020 at the University of Auckland
+- Online. 31st March - 1st of April
+
+- LIC, Hamilton. 4th - 5th of March
+
+- University of Auckland. 28th - 29th of January
+
+**Genomics workflows: How CWL can streamline your research** https://www.nesi.org.nz/news/2020/03/webinar-recording-available–-genomics-workflows-how-cwl-can-streamline-your-research
 
 **Metagenomics Summer School:**(https://github.com/GenomicsAotearoa/metagenomics_summer_school) 10th - 13th December 2019 at the University of Auckland
 
