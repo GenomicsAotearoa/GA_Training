@@ -5,7 +5,6 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 ## Upcoming Training Events:
 
-**Due to Covid-19, all our training will be held online**
 
 - Updates coming soon!!!
 
@@ -13,6 +12,8 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 ## Past Training Events:
 
 **2020 Genomics Data Carpentry Workshops:**(https://datacarpentry.org/genomics-workshop/)
+
+- Online. 12th - 14th of May
 
 - Online. 15th - 16th of April
 
