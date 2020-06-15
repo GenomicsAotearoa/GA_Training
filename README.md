@@ -12,7 +12,8 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
  
 ## Past Training Events:
 
-**2020 Genomics Data Carpentry Workshops:**(https://datacarpentry.org/genomics-workshop/)
+**2020 Genomics Data Carpentry (GDC) Workshops:**
+GDC <a href="https://datacarpentry.org/genomics-workshop/">Link</a>
 
 - Online. 12th - 14th of May
 
@@ -24,11 +25,12 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 
 - University of Auckland. 28th - 29th of January
 
-**Genomics workflows: How CWL can streamline your research** https://www.nesi.org.nz/news/2020/03/webinar-recording-available–-genomics-workflows-how-cwl-can-streamline-your-research
+**Genomics workflows: How CWL can streamline your research** 
+- The link to the presentation is <a href="https://www.nesi.org.nz/news/2020/03/webinar-recording-available–-genomics-workflows-how-cwl-can-streamline-your-research">here</a>
 
-**Metagenomics Summer School:**(https://github.com/GenomicsAotearoa/metagenomics_summer_school) 10th - 13th December 2019 at the University of Auckland
+**Metagenomics Summer School:**(<a href="https://github.com/GenomicsAotearoa/metagenomics_summer_school">Link</a>) 10th - 13th December 2019 at the University of Auckland
 
-**2019 Genomics Data Carpentry Workshops:**(https://datacarpentry.org/genomics-workshop/)
+**2019 Genomics Data Carpentry Workshops:**
 
 - Victoria University of Wellington
 - University of Otago
@@ -38,14 +40,14 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 - Auckland University
 - University of Otago
 
-**Genotyping by Sequencing:**(https://otagomohio.github.io/2019-06-11_GBS_EE/)
+**Genotyping by Sequencing:**(<a href="https://otagomohio.github.io/2019-06-11_GBS_EE/">Workshop Link<a/>)
 
-**RNA-seq workshop:**(https://github.com/gregomics/RNAseqWorkshop2018/)
-
-
+**RNA-seq workshop:**(<a href="https://github.com/gregomics/RNAseqWorkshop2018/">Workshop Link</a>)
 
 
-Contact us at https://www.genomics-aotearoa.org.nz/contact-us
+
+
+<a href="https://www.genomics-aotearoa.org.nz/contact-us">Contact<a/> us for more information.
 
 
 
