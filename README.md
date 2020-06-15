@@ -6,7 +6,8 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
 ## Upcoming Training Events:
 
 
-<a href="https://github.com/GenomicsAotearoa/RNA-seq-workshop">RNA-seq workshop</a> (Thursday, 25 June 2020) <a href="https://www.eventbrite.com/e/rna-seq-workshop-tickets-109564965762">Register</a>
+<a href="https://github.com/GenomicsAotearoa/RNA-seq-workshop">RNA-seq workshop</a> (Thursday, 25 June 2020) 
+To register, click <a href="https://www.eventbrite.com/e/rna-seq-workshop-tickets-109564965762">here</a>
 
  
 ## Past Training Events:
