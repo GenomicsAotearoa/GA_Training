@@ -10,7 +10,7 @@ If you are interested in learning more about Genomics Aotearoa Training, please 
  
 ## Past Training Events:
 
-**RNA-seq workshop**<a href="https://github.com/GenomicsAotearoa/RNA-seq-workshop">Link</a>. Thursday, 25 June 2020 
+**RNA-seq workshop**<a href="https://github.com/GenomicsAotearoa/RNA-seq-workshop"> [Link]</a>. Thursday, 25 June 2020 
 
 **2020 Genomics Data Carpentry (GDC) Workshops:**
 GDC <a href="https://datacarpentry.org/genomics-workshop/">Link</a>
