@@ -28,7 +28,7 @@ GDC <a href="https://datacarpentry.org/genomics-workshop/">[Link]</a>
 **Genomics workflows: How CWL can streamline your research** 
 - The link to the presentation is <a href="https://www.nesi.org.nz/news/2020/03/webinar-recording-available–-genomics-workflows-how-cwl-can-streamline-your-research">here</a>
 
-**Metagenomics Summer School:**(<a href="https://github.com/GenomicsAotearoa/metagenomics_summer_school"> [Link]</a>) 10th - 13th December 2019 at the University of Auckland
+**Metagenomics Summer School:**<a href="https://github.com/GenomicsAotearoa/metagenomics_summer_school"> [Link]</a>. 10th - 13th December 2019 at the University of Auckland
 
 **2019 Genomics Data Carpentry Workshops:**
 
@@ -40,9 +40,9 @@ GDC <a href="https://datacarpentry.org/genomics-workshop/">[Link]</a>
 - Auckland University
 - University of Otago
 
-**Genotyping by Sequencing:**(<a href="https://otagomohio.github.io/2019-06-11_GBS_EE/"> [Workshop Link]<a/>)
+**Genotyping by Sequencing:**<a href="https://otagomohio.github.io/2019-06-11_GBS_EE/"> [Workshop Link]<a/>
 
-**RNA-seq workshop:**(<a href="https://github.com/gregomics/RNAseqWorkshop2018/"> [Workshop Link]</a>)
+**RNA-seq workshop:**<a href="https://github.com/gregomics/RNAseqWorkshop2018/"> [Workshop Link]</a>
 
 
 
